@@ -1,6 +1,6 @@
 {
   "name": "nico-jsx",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "preferGlobal": "true",
   "description": "Nico is a front-end friendly static site generator",
   "author": "Hsiaoming Yang <me@lepture.com>",
