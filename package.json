@@ -1,6 +1,6 @@
 {
   "name": "nico-jsx",
-  "version": "0.5.10",
+  "version": "0.5.11",
   "description": "Nico is a front-end friendly static site generator",
   "author": "Hsiaoming Yang <me@lepture.com>",
   "homepage": "http://lab.lepture.com/nico/",
@@ -18,6 +18,7 @@
     "highlight.js": "~7.5.0",
     "markit": "~0.1.0",
     "rimraf": "~2.2.2",
+    "socket.io": "~0.9.17",
     "swig": "~0.14.0",
     "underscore": "~1.5.2",
     "win-spawn": "~2.0.0"
