@@ -1,6 +1,6 @@
 {
   "name": "nico-jsx",
-  "version": "0.5.11",
+  "version": "0.6.0",
   "description": "Nico is a front-end friendly static site generator",
   "author": "Hsiaoming Yang <me@lepture.com>",
   "homepage": "http://lab.lepture.com/nico/",
@@ -11,17 +11,17 @@
     "generator"
   ],
   "dependencies": {
-    "babel": "~5.5.6",
-    "colorful": "~2.1.0",
+    "babel": "^5.8.29",
+    "colorful": "^2.1.0",
     "commander": "~2.1.0",
-    "glob": "~3.2.8",
-    "highlight.js": "~7.5.0",
+    "glob": "^3.2.8",
+    "highlight.js": "^8.9.1",
     "markit": "~0.1.0",
-    "rimraf": "~2.2.2",
+    "rimraf": "^2.4.3",
     "socket.io": "~0.9.17",
     "swig": "~0.14.0",
-    "underscore": "~1.5.2",
-    "win-spawn": "~2.0.0"
+    "underscore": "^1.8.3",
+    "win-spawn": "^2.0.0"
   },
   "repository": {
     "type": "git",
