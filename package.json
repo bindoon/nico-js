@@ -1,6 +1,6 @@
 {
-  "name": "nico-jsx",
-  "version": "0.7.0",
+  "name": "@ali/nico-js",
+  "version": "0.1.0",
   "description": "Nico is a front-end friendly static site generator",
   "author": "Hsiaoming Yang <me@lepture.com>",
   "homepage": "http://lab.lepture.com/nico/",
@@ -11,7 +11,6 @@
     "generator"
   ],
   "dependencies": {
-    "babel-core": "^6.2.1",
     "colorful": "^2.1.0",
     "commander": "~2.1.0",
     "glob": "^3.2.8",
@@ -41,5 +40,8 @@
   },
   "scripts": {
     "test": "make test"
-  }
+  },
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
+     }
 }
