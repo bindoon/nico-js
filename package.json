@@ -1,5 +1,5 @@
 {
-  "name": "@ali/nico-js",
+  "name": "nico-js",
   "version": "0.1.1",
   "description": "Nico is a front-end friendly static site generator",
   "author": "Hsiaoming Yang <me@lepture.com>",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lepture/nico.git"
+    "url": "https://github.com/bindoon/nico-js.git"
   },
   "bugs": {
     "url": "https://github.com/lepture/nico/issues"
